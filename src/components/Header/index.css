@@ -1,0 +1,30 @@
+* {
+  font-family: 'Roboto';
+}
+
+.top-heading-section-container {
+  display: flex;
+  justify-content: space-between;
+}
+.wave-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wave-logo {
+  height: 24px;
+}
+
+.wave-text {
+  font-weight: bold;
+}
+.list-section {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+.home-section {
+  margin-right: 20px;
+  font-weight: bold;
+}
